@@ -1,1 +1,3 @@
-# como-comprar-komodo-kmd
+[**Cómo comprar Komodo (KMD)**](https://topcryptoguide.com/como-comprar-komodo-kmd/)
+
+Este artículo explica **cómo comprar Komodo (KMD)**, la criptomoneda nativa del proyecto Komodo, conocido por su arquitectura de **blockchain modular y seguridad reforzada** mediante la tecnología dPoW (Delgado Proof of Work). Para adquirir KMD normalmente debes **crear una cuenta en un exchange confiable que lo liste** (por ejemplo Binance, KuCoin o Bittrex), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia, tarjeta o stablecoins como USDT antes de realizar la compra en el mercado spot. También hay plataformas que permiten compras con tarjeta de crédito/débito o intercambio desde otras criptomonedas. Tras adquirir KMD, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
